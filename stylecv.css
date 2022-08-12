@@ -1,0 +1,92 @@
+nav{
+    background-color: green;
+}
+ul li{
+    width: 90em;
+    display: inline-blockS;
+
+}
+header{
+ text-align: center;
+}
+div div{
+    display: inline-block;
+    width: 4em;
+    font-size: large;
+    margin-right: 9em;
+}
+div{
+    display: block;
+    width: 100em;
+   
+}
+section{
+    width: 22em;
+    display: inline-block;
+    font-size: 2em;
+}
+body{
+    font-weight: bold;
+    background-image: url('image1.jpg' );
+}
+
+form{
+    width:em;
+    border: 4px black solid;
+   margin-left: 490px; 
+}
+li{
+    list-style: none;
+}
+.p{
+    display: inline-block;
+    width: 25em;
+}
+figure{
+    
+}
+img{
+  height: 5em;
+    width: 9em;
+}
+.A8{
+    background-color: blueviolet;
+}
+h2{
+    text-shadow: green;
+}
+header{
+
+
+}
+p{
+    font-weight: bold;
+    text-align: center;
+    opacity: red;
+}
+.A9{
+    background-color: peru;
+     box-shadow: palegreen;
+}
+figure{
+    margin-left:10em;
+}
+.A5{
+    display: inline-block;
+    background-color: blue;
+    height: 7em;
+    width: 4em;
+    margin-right: 40em;
+}
+h3{
+    
+}
+.circle{
+    margin:1px;
+    width: 5em;
+    background:#FF0000;
+    height:100px;
+    text-align:center;
+    border-radius:100px;
+    line-height: 9px;
+}

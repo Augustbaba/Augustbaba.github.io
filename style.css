@@ -1,0 +1,20 @@
+.clop{
+    background-image:url("../img/web-design-visual.jpg");
+}
+li a {
+    border-color: aquamarine;
+    border: 2px black solid;
+    border-radius: 15px;
+    width: 9em;
+    height: 3em;
+    text-align: center;
+
+}
+a:hover{
+    background-color: blueviolet;
+}
+body{
+    font-weight: bold;
+    background-image: url('image1.jpg' );
+    font-size:large;
+}
